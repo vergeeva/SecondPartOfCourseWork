@@ -185,7 +185,7 @@ Partial Class Form1
         Me.ForeColor = System.Drawing.SystemColors.ControlText
         Me.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.Name = "Form1"
-        Me.Text = "Налоги"
+        Me.Text = "."
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
